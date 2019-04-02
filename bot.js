@@ -28,7 +28,7 @@ client.on('message', message => {
 
 client.on('ready', () => {
 
-console.log('Kjrr.');
+console.log('open');
 
 }); 
 
